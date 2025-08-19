@@ -50,7 +50,7 @@ After preparing the dataset, multiple machine learning models were implemented t
 ---
 
 ## 📎 View the Notebook  
-👉 [Notebook Link](PUT-YOUR-NOTEBOOK-LINK-HERE)  
+👉 [Notebook Link]([PUT-YOUR-NOTEBOOK-LINK-HERE](https://github.com/drnima-ai/stroke-ml-prediction/blob/main/Machine%20Learning%20for%20Stroke%20Prediction.ipynb))  
 
 ---
 
