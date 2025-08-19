@@ -67,7 +67,7 @@ Special interest in medical applications of AI and machine learning
 🎸 Also a professional guitarist  
 
 📧 Email: nima.karimi.20@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/drnima-ai)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nima-karimi-a84790357/)  
 
 ---
 
